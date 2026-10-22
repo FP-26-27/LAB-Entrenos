@@ -99,8 +99,11 @@ Los resultados esperados del test son:
 
 ```python
 ===> Test de la función duracion_media_entrenos
-La duración media de los entrenos del año 2020 y el mes 6 es 75.2560975609756.
+La duración media de los entrenos del año 2020 y el mes 6 es 83.57142857142857.
 
 ===> Test de la función duracion_media_entrenos
-La duración media de los entrenos del año 2020 y el mes 3 es 75.36486486486487.
+La duración media de los entrenos del año 2020 y el mes 3 es 89.66666666666667.
+
+===> Test de la función duracion_media_entrenos
+La duración media de los entrenos del año 2030 y el mes 1 es None.
 ```
